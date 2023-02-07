@@ -1,0 +1,28 @@
+.col-12.text-center {
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 1200px;
+    height: 180px;
+    margin-bottom: 40px;
+}
+
+.col {
+    margin-bottom: 120px;
+}
+
+.row.justify-content-start.mb-5 {
+    margin-bottom: 20px;
+}
+
+.item{
+    margin-bottom: 200px;
+}
+/* .col-11.container {
+    height: 180px;
+}
+
+footer{
+    height: 100px;
+    position: relative;
+    bottom: 0;
+} */
